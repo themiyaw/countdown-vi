@@ -9,7 +9,7 @@ from humanfriendly import format_timespan as left
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Config
-TOKEN = "token removed, got yours"
+TOKEN = 5013578127:AAEIPqDc4UDN3AQMJKNSsoahLNR-r3pDyE4
 
 # Functions
 def timer(second=0, minute=0, hour=0, end_msg:str="", chn=str):
